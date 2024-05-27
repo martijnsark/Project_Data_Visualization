@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Credits | Data Project</title>
+    <link rel="stylesheet" href="style.css">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="icon" href="icontree.png">
+</head>
+
+<body>
+
+    <ul id="navbar">
+        <li class="edge2"><a href="index.html">Home</a></li>
+        <li><a href="credits.html">Credits</a></li>
+        <li><a href="sources.html">Sources</a><li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+
+    <div class="credits-container">
+        <h1>
+            Credits
+        </h1>
+        <p>
+            We decorated the website with iconic buttons and a beautiful background to fit the theme thanks to our artists: Arwen Raven, Rik van der Avoird, and Anne Wieringa. <br>
+            <br>
+            The code behind our website was from Martijn van der Willigen, and extra credit to Baran Günebakan.<br>
+            <br>
+            The project leader was Martijn van der Willigen mostly keeping the work flow smooth and the finished products in one orderly space. 
+        </p>
+    </div>
+
+    <script>
+        window.onscroll = function() {myFunction()};
+        
+        var navbar = document.getElementById("navbar");
+        var sticky = navbar.offsetTop;
+        
+        function myFunction() {
+          if (window.pageYOffset >= sticky) {
+            navbar.classList.add("sticky")
+          } else {
+            navbar.classList.remove("sticky");
+          }
+        }
+    </script>
+</body>
+</html>

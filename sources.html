@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Credits | Data Project</title>
+    <link rel="stylesheet" href="style.css">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="icon" href="icontree.png">
+</head>
+
+<body>
+
+    <ul id="navbar">
+        <li class="edge2"><a href="index.html">Home</a></li>
+        <li><a href="credits.html">Credits</a></li>
+        <li><a href="sources.html">Sources</a><li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+
+    <div class="credits-container">
+        <h1>
+            Site Sources
+        </h1>
+        <p>
+            ewmagazine.nl <br>
+            <br>
+            nu.nl <br>
+            <br>
+            nos.nl<br>
+            <br>
+            milieudefensie.nl <br>
+            <br>
+            m.kro-ncrv.nl<br>
+            <br>
+            wwf.nl    
+        </p>
+    </div>
+
+    <script>
+        window.onscroll = function() {myFunction()};
+        
+        var navbar = document.getElementById("navbar");
+        var sticky = navbar.offsetTop;
+        
+        function myFunction() {
+          if (window.pageYOffset >= sticky) {
+            navbar.classList.add("sticky")
+          } else {
+            navbar.classList.remove("sticky");
+          }
+        }
+    </script>
+</body>
+</html>
