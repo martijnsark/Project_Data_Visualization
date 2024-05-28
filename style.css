@@ -229,6 +229,25 @@ body {
     border: solid 2px white;
 }
 
+.test {
+    background-color: rgba(0, 0, 0, 0.5);
+    border: 2px dashed white;
+    text-decoration: none;
+    color: white;
+    line-height: 50px; /* Adjust the line height to vertically center the text */
+    padding: 0 10px; /* Adjust padding for better spacing */
+    font-size: 20px;
+    transition-duration: 0.2s;
+}
+
+.test:hover {
+    background: none;
+    border: dashed 2px black;
+    border-radius: 20px;
+    color: black;
+}
+
+
 @media (max-width: 768px) {
     .headliner {
         margin-top: 80px;
