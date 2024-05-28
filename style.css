@@ -1,47 +1,39 @@
-/* GENERAL SETTINGS */
-
-* {
-    margin: 0;
+/* Global Styles */
+body, html {
     padding: 0;
-    overflow-x: hidden;
-  }
-
-/* NAV BAR */
-
-ul {
+    margin: 0;
+    overflow: hidden;
+    background-color: rgb(32,34,39);
+    opacity: 85%;
     font-family: Helvetica, sans-serif;
+}
+
+/* Navigation */
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: rgb(32,34,39);
     opacity: 85%;
-  }
+}
 
-  li {
+li {
     float: left;
-  }
+}
 
-  .edge {
-      margin-left: 40%;
-  }
-
-  .edge2 {
-      margin-left: 39.55%;
-  }
-
-  li a {
+li a {
     display: block;
     color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     transition-duration: 0.2s;
-  }
+}
 
-  li a:hover {
+li a:hover {
     background-color: rgb(0, 0, 0);
-  }
+}
 
 .sticky {
     position: fixed;
@@ -50,12 +42,11 @@ ul {
     opacity: 85%;
 }
 
-/* BODY ELEMENTS */
-
+/* Body Elements */
 body {
     background-image: url('background');
-
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .headliner {
@@ -65,93 +56,59 @@ body {
 }
 
 .font-1 {
-    font-family: Helvetica, sans-serif;
     font-size: 40px;
 }
 
 .inleiding {
     width: 80%;
-    height: 550px;
+    max-width: 1200px;
+    height: auto;
     padding: 50px;
-    margin: auto;
-    margin-top: 30px;
-    margin-bottom: 50px;
-}
-
-.inleiding-text {
+    margin: 30px auto 50px auto;
     text-align: center;
 }
 
 .inleiding p {
     margin-top: 2%;
-    font-family: Helvetica, sans-serif;
     font-size: 20px;
-    text-align: center;
     color: white;
-}
-
-.center-text {
-    text-align: center;
 }
 
 .boom-container {
     width: 90%;
-    height: 800px;
-    margin-top: 50px;
-    margin: auto;
-    margin-bottom: 50px;
+    max-width: 1200px;
+    height: auto;
+    margin: 50px auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 .boom {
-    margin-top: 0px;
     width: 25%;
-    height: 80%;
-    margin: 10%;
-    float: left;
+    height: auto;
+    margin: 10px;
 }
 
-.boom-2 {
-    margin-top: 0px;
-    width: 25%;
-    height: 80%;
-    margin: 10%;
-    float: right;
-}
-
-.boom-button {
-    margin-left: 10%;
-    margin-top: 150px;
-    background-color: white;
-    color: black;
-    border: 2px solid #555555;
-    transition-duration: 0.2s;
-  }
-  
-.boom-button:hover {
-    background-color: #555555;
-    color: white;
-}
-
-.boom2-button {
-    margin-left: 70%;
+.boom-button, .boom2-button {
     margin-top: 150px;
     background-color: white;
     color: black;
     border: 2px solid #555555;
     transition-duration: 0.2s;
 }
-  
-.boom2-button:hover {
+
+.boom-button:hover, .boom2-button:hover {
     background-color: #555555;
     color: white;
-  }
+}
 
 .datablok {
     border: 3px solid black;
     width: 80%;
+    max-width: 1200px;
     height: 300px;
-    margin: auto;
-     margin-bottom: 50px;
+    margin: 50px auto;
 }
 
 .datablok-text {
@@ -160,14 +117,14 @@ body {
 }
 
 .custom-button {
-    background-color: Transparent;
+    background-color: transparent;
     border: none;
     outline: hidden;
     background-repeat: no-repeat;
 }
 
 .inleiding a {
-    background-color: rgb(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.5);
     border: 2px dashed white;
     text-decoration: none;
     color: white;
@@ -186,34 +143,64 @@ body {
 
 .credits-container {
     width: 90%;
+    max-width: 1200px;
     height: 700px;
     margin: auto;
     padding: 10px;
+    text-align: center;
+    color: white;
 }
 
 .credits-container h1 {
     margin-top: 15%;
-    font-family: Helvetica, sans-serif;
     font-size: 20px;
-    text-align: center;
-    color: white;
 }
 
 .credits-container p {
     margin-top: 2%;
-    font-family: Helvetica, sans-serif;
     font-size: 20px;
-    text-align: center;
-    color: white;
 }
 
 .legenda-container {
-    margin-top: 5%;
-    margin-left: 3%;
-    z-index: -1;
     position: absolute;
     top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 5%; /* Adjust if you need some spacing from the top */
+    z-index: 1; /* Ensure it's above other elements if necessary */
+    text-align: center; /* Center-aligns child elements */
 }
+
+.icon-container {
+    display: flex;
+    justify-content: center; /* Centers the images horizontally */
+    align-items: center; /* Centers the images vertically */
+    gap: 10px; /* Optional: adds space between the images */
+    margin-top: 10px; /* Adjust spacing between the legenda image and icons */
+}
+
+.icon-container img {
+    display: block; /* Ensure images are block elements */
+    height: 100px;
+    width: 100px;
+}
+
+#overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 1); /* Black color with full opacity */
+    z-index: 998; /* Ensure it's below the animation container */
+}
+
+.animation-container {
+    position: relative;
+    z-index: 999; /* Ensure it's above the dark screen layer */
+}
+
+
 
 .animation-container video {
     background: none;
@@ -224,8 +211,7 @@ body {
     overflow: hidden;
 }
 
-.button-style {
-    margin-left: 275px;
+.button-style, .button-style2 {
     border: dashed 2px black;
     color: white;
     cursor: pointer;
@@ -234,24 +220,27 @@ body {
     width: 150px;
     height: 50px;
     font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-.button-style:hover {
+.button-style:hover, .button-style2:hover {
     border: solid 2px white;
 }
 
-.button-style2 {
-    margin-left: 510px;
-    border: dashed 2px black;
-    color: white;
-    cursor: pointer;
-    transition-duration: 0.2s;
-    background: none;
-    width: 150px;
-    height: 50px;
-    font-size: 20px;
-}
-
-.button-style2:hover {
-    border: solid 2px white;
+@media (max-width: 768px) {
+    .headliner {
+        margin-top: 80px;
+    }
+    .boom, .boom-2 {
+        width: 100%;
+        margin: 10px 0;
+    }
+    .boom-button, .boom2-button {
+        margin: 20px auto;
+    }
+    .button-style, .button-style2 {
+        margin-left: 0;
+        width: 100%;
+    }
 }
