@@ -44,10 +44,11 @@ li a:hover {
 
 /* Body Elements */
 body {
-    background-image: url('background');
+    background-image: url('Images/background'); /* Updated path */
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 
 .headliner {
     text-align: center;
