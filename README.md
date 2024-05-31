@@ -65,12 +65,8 @@ In this case it was:
 The art was made by DDM which included:
 Arwen Raven, Rik van der Avoird, and Anne Wieringa.
 
-<br><br>
-
 The code was made by SD which included: 
 Martijn van der Willigen and Baran Günebakan.
-
-<br><br>
 
 Martijn van der Willigen was the project leader of the group and the research was done as a team effort.
 
