@@ -68,7 +68,11 @@ Arwen Raven, Rik van der Avoird, and Anne Wieringa.
 The code was made by SD which included: 
 Martijn van der Willigen and Baran Günebakan.
 
+<br><br>
+
 Martijn van der Willigen was the project leader of the group and the research was done as a team effort.
+
+last but not least this version of the website was Changed just by Martijn to make it representable for his Portfolio
 
 <br><br><br><br><br><br><br><br>
 
