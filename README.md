@@ -105,6 +105,9 @@ Wwf.nl
 
 
 
+
+
+
 ## The proces and goal:
 
 Our school was acting as the client, our client wanted a game/website/app that would display Data with visuals based on any pre selected subject they had chosen.
@@ -133,7 +136,103 @@ Baran Günebakan made the wireframe to give Our team an idea of how the website 
 
 
 
-## About the project:
+## The website:
+
+Here will be shown what the website looked like. 
+
+
+
+<br><br>
+
+First half of the "Home Page"
+
+<img width="600" height="400" src="Readme_Images/Home1.png" alt="image">
+
+
+
+
+
+<br><br><br><br>
+
+Second half of the "Home Page"
+
+<img width="600" height="400" src="Readme_Images/Home2.png" alt="image">
+
+
+
+
+
+<br><br><br><br>
+
+The "Forestation Page" displaying the amount of trees planted world wide on a annual basis.
+
+<img width="600" height="400" src="Readme_Images/Trees.png" alt="image">
+
+
+
+
+
+<br><br><br><br>
+
+The "Deforestation Page" displaying the amount of trees cut down world wide on a annual basis.
+
+<img width="600" height="400" src="Readme_Images/LackOfTrees.png" alt="image">
+
+
+
+
+
+<br><br><br><br>
+
+The first frame of the animation that plays when you switch to the "Forestation" / "Deforestation" page.
+
+<img width="600" height="400" src="Readme_Images/AnimationFrame1.png" alt="image">
+
+
+
+
+
+<br><br><br><br>
+
+The second frame of the animation that plays when you switch to the "Forestation" / "Deforestation" page.
+
+<img width="600" height="400" src="Readme_Images/AnimationFrame2.png" alt="image">
+
+
+
+
+
+<br><br><br><br>
+
+This is the "Credit Page" where all artist and developers like myself get credit.
+
+<img width="600" height="400" src="Readme_Images/Credits.png" alt="image">
+
+
+
+
+<br><br><br><br>
+
+This is the "Sources Page", the page where the websites used for research are mentioned.
+
+<img width="600" height="400" src="Readme_Images/Sources.png" alt="image">
+
+
+
+
+
+<br><br><br><br>
+
+This is the "Contact Page" this is where you find the Details to contact "Sint Lucas Eindhoven".
+
+<img width="600" height="400" src="Readme_Images/Contact.png" alt="image">
+
+<br><br><br><br><br><br><br><br>
+
+
+
+
+
+## Retrospective:
 
 Besides that our team not being very experienced and the deadline being fast i'm really proud of what our team put together:
-
