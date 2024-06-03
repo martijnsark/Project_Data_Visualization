@@ -144,7 +144,7 @@ Here will be shown what the website looked like.
 
 <br><br>
 
-First half of the "Home Page"
+The first half of the "Home Page"
 
 <img width="600" height="400" src="Readme_Images/Home1.png" alt="image">
 
@@ -154,7 +154,7 @@ First half of the "Home Page"
 
 <br><br><br><br>
 
-Second half of the "Home Page"
+The second half of the "Home Page"
 
 <img width="600" height="400" src="Readme_Images/Home2.png" alt="image">
 
