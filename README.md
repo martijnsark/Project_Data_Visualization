@@ -11,8 +11,189 @@ You can either scroll down or click here: [English_Data_display_website](#Englis
 
 ## credits:
 
+Dit project was een multidisciplinaire onderneming, waarbij studenten uit minstens twee verschillende studierichtingen betrokken waren die samenwerkten om het eindproduct te maken.
+
+In dit geval waren dat:
+- DDM (Digital Design & Motion)
+- SD (Software Ontwikkeling)
+
+<br><br>
+
+De artwork is gemaakt door DDM, bestaande uit:
+Arwen Raven, Rik van der Avoird en Anne Wieringa.
+
+De code is ontwikkeld door SD, met onder andere:
+Martijn van der Willigen en Baran Günebakan.
+
+Martijn van der Willigen was de projectleider van de groep en het onderzoek was een teamprestatie.
+
+<br><br>
+
+Deze versie van de website is door Martijn van der Willigen aangepast om hem toonbaar te maken voor zijn portfolio en wijkt enigszins af van het origineel.
+
+<br><br><br><br><br><br><br><br>
+
+
+
+
+
+
+
+
+## source credits:
+
+Hier kun je alle websites bekijken die zijn gebruikt om conclusies te trekken uit onze statistieken:
+
+- Ewmagazine.nl
+- Nu.nl
+- Nos.nl
+- Milieudefensie.nl
+- M.kro-ncrv.nl
+- Wwf.nl
+
+
+<br><br><br><br><br><br><br><br>
+
+
+
+
+
+
+## The process and goal:
+
+Onze school trad op als klant. Onze klant wilde een game, website of app die gegevens met visuals zou weergeven op basis van een vooraf gekozen onderwerp.
+
+Ons team koos uiteindelijk het milieu als onderwerp. Het was nog steeds een breed onderwerp, dus beperkten we het tot jaarlijks geplante bomen wereldwijd versus jaarlijks gekapte bomen wereldwijd.
+
+<br><br>
+
+Ons team kwam al vroeg tot de conclusie dat een website de beste manier was, omdat een interactieve website onze feiten zo efficiënt mogelijk kon weergeven.
+
+Dit werd ook ondersteund door het feit dat Baran Günebakan de voorkeur gaf aan webontwikkeling, terwijl Martijn van der Willigen er open voor stond.
+
+<br><br>
+
+Baran Günebakan maakte het wireframe om ons team een idee te geven van hoe de website eruit zou komen te zien, en we bouwden de website volgens deze blauwdruk.
+
+<br><br>
+
+Het onderzoek werd in teamverband gedaan aan de hand van websites en het controleren van geloofwaardige bronnen, en de bevindingen werden verzameld in een Discord-groep.
+
+Ons team communiceerde ook via Discord om in contact te blijven over ons project.
+
+<br><br><br><br><br><br><br><br>
+
+
+
+
+
+
+
+
+## The website:
+
+<br><br>
+
+De eerste helft van de “Home Page”
+
+<img width="600" height="400" src="Readme_Images/Home1.png" alt="image">
+
+
+
+
+
+<br><br><br><br>
+
+De tweede helft van de “Home Page”
+
+<img width="600" height="400" src="Readme_Images/Home2.png" alt="image">
+
+
+
+
+
+<br><br><br><br>
+
+De “Forestation Page” toont het aantal bomen dat wereldwijd jaarlijks wordt geplant.
+
+<img width="600" height="400" src="Readme_Images/Trees.png" alt="image">
+
+
+
+
+
+<br><br><br><br>
+
+De “Deforestation Page” toont het aantal bomen dat jaarlijks wereldwijd wordt gekapt.
+
+<img width="600" height="400" src="Readme_Images/LackOfTrees.png" alt="image">
+
+
+
+
+
+<br><br><br><br>
+
+Het eerste frame van de animatie wordt afgespeeld wanneer je overschakelt naar de pagina "Forestation" / "Deforestation."
+
+<img width="600" height="400" src="Readme_Images/AnimationFrame1.png" alt="image">
+
+
+
+
+
+<br><br><br><br>
+
+Het tweede frame van de animatie wordt afgespeeld wanneer je overschakelt naar de pagina "Forestation" / "Deforestation."
+
+<img width="600" height="400" src="Readme_Images/AnimationFrame2.png" alt="image">
+
+
+
+
+
+<br><br><br><br>
+
+Dit is de “Credits Pagina” waar alle artiesten en ontwikkelaars, zoals ikzelf, credits krijgen.
+
+<img width="600" height="400" src="Readme_Images/Credits.png" alt="image">
+
+
+
+
+<br><br><br><br>
+
+Dit is de “Bronnenpagina”, de pagina waar de websites worden vermeld die voor het onderzoek zijn gebruikt.
+
+<img width="600" height="400" src="Readme_Images/Sources.png" alt="image">
+
+
+
+
+
+<br><br><br><br>
+
+Dit is de “Contactpagina”; hier vind je de gegevens om contact op te nemen met “Sint Lucas Eindhoven.”
+
+<img width="600" height="400" src="Readme_Images/Contact.png" alt="image">
+
+<br><br><br><br><br><br><br><br>
+
+
+
+
+
+## Retrospective:
+
+Ondanks het gebrek aan ervaring van ons team op dat moment en de snel naderende deadline, ben ik echt trots op wat we hebben neergezet.
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+
 
 
 
@@ -103,7 +284,7 @@ Here you can see all the websites used to draw the conclusions of our statistics
 
 
 
-## The proces and goal:
+## The process and goal:
 
 Our school was acting as the client. Our client wanted a game, website, or app that would display data with visuals based on any pre-selected subject they had chosen.
 
