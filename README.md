@@ -9,7 +9,7 @@ You can either scroll down or click here: [English_Data_display_website](#Englis
 <br><br><br><br><br><br><br><br>
 
 
-## credits:
+## Credits:
 
 Dit project was een multidisciplinaire onderneming, waarbij studenten uit minstens twee verschillende studierichtingen betrokken waren die samenwerkten om het eindproduct te maken.
 
@@ -40,7 +40,7 @@ Deze versie van de website is door Martijn van der Willigen aangepast om hem too
 
 
 
-## source credits:
+## Bronvermeldingen:
 
 Hier kun je alle websites bekijken die zijn gebruikt om conclusies te trekken uit onze statistieken:
 
@@ -59,7 +59,7 @@ Hier kun je alle websites bekijken die zijn gebruikt om conclusies te trekken ui
 
 
 
-## The process and goal:
+## Het proces en doel:
 
 Onze school trad op als klant. Onze klant wilde een game, website of app die gegevens met visuals zou weergeven op basis van een vooraf gekozen onderwerp.
 
@@ -90,7 +90,7 @@ Ons team communiceerde ook via Discord om in contact te blijven over ons project
 
 
 
-## The website:
+## De website:
 
 <br><br>
 
@@ -183,7 +183,7 @@ Dit is de “Contactpagina”; hier vind je de gegevens om contact op te nemen m
 
 
 
-## Retrospective:
+## Terugblik:
 
 Ondanks het gebrek aan ervaring van ons team op dat moment en de snel naderende deadline, ben ik echt trots op wat we hebben neergezet.
 
@@ -233,7 +233,7 @@ You can either scroll up or click here: [Dutch_Data_display_website](#Dutch_tran
 
 
 
-## credits:
+## Credits:
 
 This project was a multidisciplinary endeavor, involving students from at least two different fields of study who collaborated to create the final product.
 
