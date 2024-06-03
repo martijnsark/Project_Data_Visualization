@@ -138,10 +138,6 @@ Baran Günebakan made the wireframe to give Our team an idea of how the website 
 
 ## The website:
 
-Here will be shown what the website looked like. 
-
-
-
 <br><br>
 
 The first half of the "Home Page"
