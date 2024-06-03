@@ -54,25 +54,25 @@ You can either scroll up or click here: [Dutch_Data_display_website](#Dutch_tran
 
 ## credits:
 
-This project was a multidisciplinary project, meaning students from at least two different studies worked to create the final product.
+This project was a multidisciplinary endeavor, involving students from at least two different fields of study who collaborated to create the final product.
 
-In this case it was:
-- DDM or Digital Design & Motion.
-- SD or Software Development
+In this case, the fields were:
+- DDM (Digital Design & Motion)
+- SD (Software Development)
 
 <br><br>
 
-The art was made by DDM which included:
+The art was created by DDM, which included:
 Arwen Raven, Rik van der Avoird, and Anne Wieringa.
 
-The code was made by SD which included: 
+The code was developed by SD, which included:
 Martijn van der Willigen and Baran Günebakan.
 
-Martijn van der Willigen was the project leader of the group and the research was done as a team effort.
+Martijn van der Willigen was the project leader of the group, and the research was a team effort.
 
 <br><br>
 
-This version of the website was Changed by Martijn van der Willigen to make it representable for his Portfolio and is moderately different from the original.
+This version of the website was modified by Martijn van der Willigen to make it presentable for his portfolio and is moderately different from the original.
 
 <br><br><br><br><br><br><br><br>
 
@@ -86,19 +86,14 @@ This version of the website was Changed by Martijn van der Willigen to make it r
 
 ## source credits:
 
-Here you can see all websites used to pull the conclusions of our statistics:
+Here you can see all the websites used to draw the conclusions of our statistics:
 
-Ewmagazine.nl
-
-Nu.nl
-
-Nos.nl
-
-Milieudefensie.nl
-
-M.kro-ncrv.nl
-
-Wwf.nl
+- Ewmagazine.nl
+- Nu.nl
+- Nos.nl
+- Milieudefensie.nl
+- M.kro-ncrv.nl
+- Wwf.nl
 
 
 <br><br><br><br><br><br><br><br>
@@ -110,27 +105,32 @@ Wwf.nl
 
 ## The proces and goal:
 
-Our school was acting as the client, our client wanted a game/website/app that would display Data with visuals based on any pre selected subject they had chosen.
+Our school was acting as the client. Our client wanted a game, website, or app that would display data with visuals based on any pre-selected subject they had chosen.
 
-Our team ended up choosing environment as topic it was still a wide subject, so we narrowed it down to annual trees planted world wide vs annual trees cut down world wide.
-
-<br><br>
-
-Our team had come early to the conclusion that Website was the best way to go about it as a interactive website could display our facts as efficiently as possible.
-
-This was also being supported by the fact that Baran Günebakan preferred Web development while Martijn van der Willigen was open minded.
+Our team ended up choosing the environment as the topic. It was still a wide subject, so we narrowed it down to annual trees planted worldwide vs. annual trees cut down worldwide.
 
 <br><br>
 
-The research was done as a team via websites and fact checking for credible sources and collected in a Discord group.
+Our team concluded early on that a website was the best way to go, as an interactive website could display our facts as efficiently as possible.
 
-Our team also communicated via Discord to keep in contact about our project.
+This was also supported by the fact that Baran Günebakan preferred web development, while Martijn van der Willigen was open-minded.
 
 <br><br>
 
-Baran Günebakan made the wireframe to give Our team an idea of how the website would look like and we proceeded to built it by blueprint.
+Baran Günebakan created the wireframe to give our team an idea of how the website would look, and we proceeded to build it according to this blueprint.
+
+<br><br>
+
+The research was done as a team through websites and fact-checking credible sources, and the findings were collected in a Discord group.
+
+Our team also communicated via Discord to stay in contact about our project.
+
+
 
 <br><br><br><br><br><br><br><br>
+
+
+
 
 
 
@@ -160,7 +160,7 @@ The second half of the "Home Page"
 
 <br><br><br><br>
 
-The "Forestation Page" displaying the amount of trees planted world wide on a annual basis.
+The "Forestation Page" displays the number of trees planted worldwide on an annual basis.
 
 <img width="600" height="400" src="Readme_Images/Trees.png" alt="image">
 
@@ -170,7 +170,7 @@ The "Forestation Page" displaying the amount of trees planted world wide on a an
 
 <br><br><br><br>
 
-The "Deforestation Page" displaying the amount of trees cut down world wide on a annual basis.
+The "Deforestation Page" displays the number of trees cut down worldwide on an annual basis.
 
 <img width="600" height="400" src="Readme_Images/LackOfTrees.png" alt="image">
 
@@ -180,7 +180,7 @@ The "Deforestation Page" displaying the amount of trees cut down world wide on a
 
 <br><br><br><br>
 
-The first frame of the animation that plays when you switch to the "Forestation" / "Deforestation" page.
+The first frame of the animation plays when you switch to the "Forestation" / "Deforestation" page.
 
 <img width="600" height="400" src="Readme_Images/AnimationFrame1.png" alt="image">
 
@@ -190,7 +190,7 @@ The first frame of the animation that plays when you switch to the "Forestation"
 
 <br><br><br><br>
 
-The second frame of the animation that plays when you switch to the "Forestation" / "Deforestation" page.
+The second frame of the animation plays when you switch to the "Forestation" / "Deforestation" page.
 
 <img width="600" height="400" src="Readme_Images/AnimationFrame2.png" alt="image">
 
@@ -200,7 +200,7 @@ The second frame of the animation that plays when you switch to the "Forestation
 
 <br><br><br><br>
 
-This is the "Credit Page" where all artist and developers like myself get credit.
+This is the "Credits Page" where all artists and developers, like myself, receive credit.
 
 <img width="600" height="400" src="Readme_Images/Credits.png" alt="image">
 
@@ -209,7 +209,7 @@ This is the "Credit Page" where all artist and developers like myself get credit
 
 <br><br><br><br>
 
-This is the "Sources Page", the page where the websites used for research are mentioned.
+This is the "Sources Page," the page where the websites used for research are mentioned.
 
 <img width="600" height="400" src="Readme_Images/Sources.png" alt="image">
 
@@ -219,7 +219,7 @@ This is the "Sources Page", the page where the websites used for research are me
 
 <br><br><br><br>
 
-This is the "Contact Page" this is where you find the Details to contact "Sint Lucas Eindhoven".
+This is the "Contact Page"; it's where you'll find the details to contact "Sint Lucas Eindhoven."
 
 <img width="600" height="400" src="Readme_Images/Contact.png" alt="image">
 
@@ -231,4 +231,4 @@ This is the "Contact Page" this is where you find the Details to contact "Sint L
 
 ## Retrospective:
 
-Besides that our team not being very experienced and the deadline being fast i'm really proud of what our team put together:
+Despite our team's lack of experience at the time and the fast-approaching deadline, I'm really proud of what we put together.
