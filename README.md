@@ -188,7 +188,7 @@ Dit is de “Contactpagina”; hier vind je de gegevens om contact op te nemen m
 Ondanks het gebrek aan ervaring van ons team op dat moment en de snel naderende deadline, ben ik echt trots op wat we hebben neergezet.
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
