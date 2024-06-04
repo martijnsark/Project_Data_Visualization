@@ -126,7 +126,7 @@ De “Forestation Page” toont het aantal bomen dat wereldwijd jaarlijks wordt 
 
 De “Deforestation Page” toont het aantal bomen dat jaarlijks wereldwijd wordt gekapt.
 
-<img width="600" height="400" src="Readme_Images/LackOfTrees.png" alt="image">
+<img width="750" height="400" src="Readme_Images/LackOfTrees.png" alt="image">
 
 
 
@@ -136,7 +136,7 @@ De “Deforestation Page” toont het aantal bomen dat jaarlijks wereldwijd word
 
 Het eerste frame van de animatie wordt afgespeeld wanneer je overschakelt naar de pagina "Forestation" / "Deforestation."
 
-<img width="600" height="400" src="Readme_Images/AnimationFrame1.png" alt="image">
+<img width="750" height="400" src="Readme_Images/AnimationFrame1.png" alt="image">
 
 
 
@@ -146,7 +146,7 @@ Het eerste frame van de animatie wordt afgespeeld wanneer je overschakelt naar d
 
 Het tweede frame van de animatie wordt afgespeeld wanneer je overschakelt naar de pagina "Forestation" / "Deforestation."
 
-<img width="600" height="400" src="Readme_Images/AnimationFrame2.png" alt="image">
+<img width="750" height="400" src="Readme_Images/AnimationFrame2.png" alt="image">
 
 
 
@@ -175,7 +175,7 @@ Dit is de “Bronnenpagina”, de pagina waar de websites worden vermeld die voo
 
 Dit is de “Contactpagina”; hier vind je de gegevens om contact op te nemen met “Sint Lucas Eindhoven.”
 
-<img width="750" height="400" src="Readme_Images/Contact.png" alt="image">
+<img width="800" height="400" src="Readme_Images/Contact.png" alt="image">
 
 <br><br><br><br><br><br><br><br>
 
