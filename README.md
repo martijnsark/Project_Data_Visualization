@@ -61,7 +61,7 @@ Hier kun je alle websites bekijken die zijn gebruikt om conclusies te trekken ui
 
 ## Het proces en doel:
 
-Onze school trad op als klant. Onze klant wilde een game, website of app die gegevens met visuals zou weergeven op basis van een vooraf gekozen onderwerp.
+Onze school trad op als klant. Onze klant wilde een game, website of app die gegevens met visuals zou weergeven op basis van een vooraf gekozen onderwerp uit een selectie van onderwerpen die al door onze school gekozen waren.
 
 Ons team koos uiteindelijk het milieu als onderwerp. Het was nog steeds een breed onderwerp, dus beperkten we het tot jaarlijks geplante bomen wereldwijd versus jaarlijks gekapte bomen wereldwijd.
 
@@ -286,7 +286,7 @@ Here you can see all the websites used to draw the conclusions of our statistics
 
 ## The process and goal:
 
-Our school was acting as the client. Our client wanted a game, website, or app that would display data with visuals based on any pre-selected subject they had chosen.
+Our school acted as a client. Our client wanted a game, website or app that would display data with visuals based on a pre-chosen topic from a selection of topics already chosen by our school.
 
 Our team ended up choosing the environment as the topic. It was still a wide subject, so we narrowed it down to annual trees planted worldwide vs. annual trees cut down worldwide.
 
