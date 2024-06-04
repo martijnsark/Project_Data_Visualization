@@ -15,7 +15,7 @@ Dit project was een multidisciplinaire onderneming, waarbij studenten uit minste
 
 In dit geval waren dat:
 - DDM (Digital Design & Motion)
-- SD (Software Ontwikkeling)
+- SD (Software Development)
 
 <br><br>
 
