@@ -1,10 +1,10 @@
-# Dutch_translation_Data_display_website
+# Dutch_translation_Project_Data_Visualization
 
 
 
 ### Where to find English translation
 
-You can either scroll down or click here: [English_Data_display_website](#English_translation_Data_display_website)
+You can either scroll down or click here: [English_Project_Data_Visualization](#English_translation_Project_Data_Visualization)
 
 <br><br><br><br><br><br><br><br>
 
@@ -216,13 +216,13 @@ Ondanks het gebrek aan ervaring van ons team op dat moment en de snel naderende 
 
 
 
-# English_translation_Data_display_website
+# English_translation_Project_Data_Visualization
 
 
 
 ### Where to find English translation
 
-You can either scroll up or click here: [Dutch_Data_display_website](#Dutch_translation_Data_display_website)
+You can either scroll up or click here: [Dutch_Project_Data_Visualization](#Dutch_translation_Project_Data_Visualization)
 
 <br><br><br><br><br><br><br><br>
 
