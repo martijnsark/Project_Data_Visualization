@@ -73,13 +73,13 @@ Dit werd ook ondersteund door het feit dat Baran Günebakan de voorkeur gaf aan 
 
 <br><br>
 
-Baran Günebakan maakte het wireframe om ons team een idee te geven van hoe de website eruit zou komen te zien, en we bouwden de website volgens deze blauwdruk.
+Baran Günebakan maakte de wireframe om ons team een idee te geven van hoe de website eruit zou komen te zien, en we bouwden de website volgens deze blauwdruk.
 
 <br><br>
 
-Het onderzoek werd in teamverband gedaan aan de hand van websites en het controleren van geloofwaardige bronnen, en de bevindingen werden verzameld in een Discord-groep.
-
 Ons team communiceerde ook via Discord om in contact te blijven over ons project.
+
+Het onderzoek werd in teamverband gedaan aan de hand van websites en het controleren van geloofwaardige bronnen, en de bevindingen werden verzameld in onze Discord-groep.
 
 <br><br><br><br><br><br><br><br>
 
@@ -302,11 +302,9 @@ Baran Günebakan created the wireframe to give our team an idea of how the websi
 
 <br><br>
 
-The research was done as a team through websites and fact-checking credible sources, and the findings were collected in a Discord group.
+Our team communicated via Discord to stay in contact about our project.
 
-Our team also communicated via Discord to stay in contact about our project.
-
-
+The research was done as a team through websites and fact-checking credible sources, and the findings were collected in our Discord group.
 
 <br><br><br><br><br><br><br><br>
 
