@@ -96,7 +96,7 @@ Ons team communiceerde ook via Discord om in contact te blijven over ons project
 
 De eerste helft van de “Home Page”
 
-<img width="600" height="400" src="Readme_Images/Home1.png" alt="image">
+<img width="800" height="400" src="Readme_Images/Home1.png" alt="image">
 
 
 
@@ -106,7 +106,7 @@ De eerste helft van de “Home Page”
 
 De tweede helft van de “Home Page”
 
-<img width="600" height="400" src="Readme_Images/Home2.png" alt="image">
+<img width="800" height="400" src="Readme_Images/Home2.png" alt="image">
 
 
 
@@ -116,7 +116,7 @@ De tweede helft van de “Home Page”
 
 De “Forestation Page” toont het aantal bomen dat wereldwijd jaarlijks wordt geplant.
 
-<img width="600" height="400" src="Readme_Images/Trees.png" alt="image">
+<img width="800" height="400" src="Readme_Images/Trees.png" alt="image">
 
 
 
@@ -126,7 +126,7 @@ De “Forestation Page” toont het aantal bomen dat wereldwijd jaarlijks wordt 
 
 De “Deforestation Page” toont het aantal bomen dat jaarlijks wereldwijd wordt gekapt.
 
-<img width="750" height="400" src="Readme_Images/LackOfTrees.png" alt="image">
+<img width="800" height="400" src="Readme_Images/LackOfTrees.png" alt="image">
 
 
 
@@ -136,7 +136,7 @@ De “Deforestation Page” toont het aantal bomen dat jaarlijks wereldwijd word
 
 Het eerste frame van de animatie wordt afgespeeld wanneer je overschakelt naar de pagina "Forestation" / "Deforestation."
 
-<img width="750" height="400" src="Readme_Images/AnimationFrame1.png" alt="image">
+<img width="800" height="400" src="Readme_Images/AnimationFrame1.png" alt="image">
 
 
 
@@ -146,7 +146,7 @@ Het eerste frame van de animatie wordt afgespeeld wanneer je overschakelt naar d
 
 Het tweede frame van de animatie wordt afgespeeld wanneer je overschakelt naar de pagina "Forestation" / "Deforestation."
 
-<img width="750" height="400" src="Readme_Images/AnimationFrame2.png" alt="image">
+<img width="800" height="400" src="Readme_Images/AnimationFrame2.png" alt="image">
 
 
 
@@ -156,7 +156,7 @@ Het tweede frame van de animatie wordt afgespeeld wanneer je overschakelt naar d
 
 Dit is de “Credits Pagina” waar alle artiesten en ontwikkelaars, zoals ikzelf, credits krijgen.
 
-<img width="750" height="400" src="Readme_Images/Credits.png" alt="image">
+<img width="800" height="400" src="Readme_Images/Credits.png" alt="image">
 
 
 
@@ -165,7 +165,7 @@ Dit is de “Credits Pagina” waar alle artiesten en ontwikkelaars, zoals ikzel
 
 Dit is de “Bronnenpagina”, de pagina waar de websites worden vermeld die voor het onderzoek zijn gebruikt.
 
-<img width="750" height="400" src="Readme_Images/Sources.png" alt="image">
+<img width="800" height="400" src="Readme_Images/Sources.png" alt="image">
 
 
 
@@ -323,7 +323,7 @@ Our team also communicated via Discord to stay in contact about our project.
 
 The first half of the "Home Page"
 
-<img width="600" height="400" src="Readme_Images/Home1.png" alt="image">
+<img width="800" height="400" src="Readme_Images/Home1.png" alt="image">
 
 
 
@@ -333,7 +333,7 @@ The first half of the "Home Page"
 
 The second half of the "Home Page"
 
-<img width="600" height="400" src="Readme_Images/Home2.png" alt="image">
+<img width="800" height="400" src="Readme_Images/Home2.png" alt="image">
 
 
 
@@ -343,7 +343,7 @@ The second half of the "Home Page"
 
 The "Forestation Page" displays the number of trees planted worldwide on an annual basis.
 
-<img width="600" height="400" src="Readme_Images/Trees.png" alt="image">
+<img width="800" height="400" src="Readme_Images/Trees.png" alt="image">
 
 
 
@@ -353,7 +353,7 @@ The "Forestation Page" displays the number of trees planted worldwide on an annu
 
 The "Deforestation Page" displays the number of trees cut down worldwide on an annual basis.
 
-<img width="600" height="400" src="Readme_Images/LackOfTrees.png" alt="image">
+<img width="800" height="400" src="Readme_Images/LackOfTrees.png" alt="image">
 
 
 
@@ -363,7 +363,7 @@ The "Deforestation Page" displays the number of trees cut down worldwide on an a
 
 The first frame of the animation plays when you switch to the "Forestation" / "Deforestation" page.
 
-<img width="600" height="400" src="Readme_Images/AnimationFrame1.png" alt="image">
+<img width="800" height="400" src="Readme_Images/AnimationFrame1.png" alt="image">
 
 
 
@@ -373,7 +373,7 @@ The first frame of the animation plays when you switch to the "Forestation" / "D
 
 The second frame of the animation plays when you switch to the "Forestation" / "Deforestation" page.
 
-<img width="600" height="400" src="Readme_Images/AnimationFrame2.png" alt="image">
+<img width="800" height="400" src="Readme_Images/AnimationFrame2.png" alt="image">
 
 
 
@@ -383,7 +383,7 @@ The second frame of the animation plays when you switch to the "Forestation" / "
 
 This is the "Credits Page" where all artists and developers, like myself, receive credit.
 
-<img width="600" height="400" src="Readme_Images/Credits.png" alt="image">
+<img width="800" height="400" src="Readme_Images/Credits.png" alt="image">
 
 
 
@@ -392,7 +392,7 @@ This is the "Credits Page" where all artists and developers, like myself, receiv
 
 This is the "Sources Page," the page where the websites used for research are mentioned.
 
-<img width="600" height="400" src="Readme_Images/Sources.png" alt="image">
+<img width="800" height="400" src="Readme_Images/Sources.png" alt="image">
 
 
 
@@ -402,7 +402,7 @@ This is the "Sources Page," the page where the websites used for research are me
 
 This is the "Contact Page"; it's where you'll find the details to contact "Sint Lucas Eindhoven."
 
-<img width="600" height="400" src="Readme_Images/Contact.png" alt="image">
+<img width="800" height="400" src="Readme_Images/Contact.png" alt="image">
 
 <br><br><br><br><br><br><br><br>
 
