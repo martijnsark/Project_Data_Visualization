@@ -77,7 +77,7 @@ Baran Günebakan maakte de wireframe om ons team een idee te geven van hoe de we
 
 <br><br>
 
-Ons team communiceerde ook via Discord om in contact te blijven over ons project.
+Ons team communiceerde via Discord om in contact te blijven over ons project.
 
 Het onderzoek werd in teamverband gedaan aan de hand van websites en het controleren van geloofwaardige bronnen, en de bevindingen werden verzameld in onze Discord-groep.
 
