@@ -156,7 +156,7 @@ Het tweede frame van de animatie wordt afgespeeld wanneer je overschakelt naar d
 
 Dit is de “Credits Pagina” waar alle artiesten en ontwikkelaars, zoals ikzelf, credits krijgen.
 
-<img width="600" height="400" src="Readme_Images/Credits.png" alt="image">
+<img width="750" height="400" src="Readme_Images/Credits.png" alt="image">
 
 
 
@@ -165,7 +165,7 @@ Dit is de “Credits Pagina” waar alle artiesten en ontwikkelaars, zoals ikzel
 
 Dit is de “Bronnenpagina”, de pagina waar de websites worden vermeld die voor het onderzoek zijn gebruikt.
 
-<img width="600" height="400" src="Readme_Images/Sources.png" alt="image">
+<img width="750" height="400" src="Readme_Images/Sources.png" alt="image">
 
 
 
@@ -175,7 +175,7 @@ Dit is de “Bronnenpagina”, de pagina waar de websites worden vermeld die voo
 
 Dit is de “Contactpagina”; hier vind je de gegevens om contact op te nemen met “Sint Lucas Eindhoven.”
 
-<img width="700" height="400" src="Readme_Images/Contact.png" alt="image">
+<img width="750" height="400" src="Readme_Images/Contact.png" alt="image">
 
 <br><br><br><br><br><br><br><br>
 
