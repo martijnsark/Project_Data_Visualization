@@ -15,9 +15,9 @@
     <ul id="navbar">
         <li class="edge"><a href="index.html">Home</a></li>
         <li><a href="credits.html">Credits</a></li>
-        <li><a href="sources.html">Sources</a><li> <!-- Fix missing closing tag -->
+        <li><a href="sources.html">Sources</a></li> <!-- Fixed closing tag -->
         <li><a href="contact.html">Contact</a></li>
-      </ul>
+    </ul>
 
     <h1 class="font-1 headliner">Project Data visualization</h1>
 
@@ -32,15 +32,17 @@
         </p>
     </div>
 
-   <div class="boom-container" id="bomen">
-      <img class="margin-img-1" src="images/Trees final.png" alt="Smiley face" height="620" width="1450"> <!-- Updated path -->
-  
-      <input class="button-style" type="button" name="button" value="Forestation" onclick="location.href='boomplanting.html'">
-  
-      <a class="test" href="#top">Up</a> <!-- New "Up" link -->
-  
-      <input class="button-style2" type="button" name="button" value="Deforestation" onclick="location.href='ontbossing.html'">
-   </div>
+    <div class="boom-container" id="bomen">
+        <img class="margin-img-1" src="images/Trees final.png" alt="Smiley face" height="620" width="1450"> <!-- Updated path -->
+    
+        <input class="button-style" type="button" name="button" value="Forestation" onclick="location.href='boomplanting.html'">
+    
+        <a class="test" href="#top">Up</a> <!-- New "Up" link -->
+    
+        <input class="button-style2" type="button" name="button" value="Deforestation" onclick="location.href='ontbossing.html'">
+    </div>
+
+    <div id="overlay"></div>
 
     <script>
         window.onscroll = function() {myFunction()};
@@ -55,6 +57,23 @@
             navbar.classList.remove("sticky");
           }
         }
+
+        // Function to show the overlay
+        function showOverlay() {
+            document.getElementById('overlay').style.display = 'block';
+        }
+
+        // Function to hide the overlay
+        function hideOverlay() {
+            document.getElementById('overlay').style.display = 'none';
+        }
+
+        // Assuming you have a way to trigger the start and end of your animation
+        var animationContainer = document.querySelector('.animation-container');
+
+        // Add event listeners to start and end the animation
+        animationContainer.addEventListener('animationstart', showOverlay);
+        animationContainer.addEventListener('animationend', hideOverlay);
     </script>
 </body>
 </html>
