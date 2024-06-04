@@ -49,7 +49,6 @@ body {
     background-size: cover;
 }
 
-
 .headliner {
     text-align: center;
     margin-top: 120px;
@@ -194,14 +193,13 @@ body {
     height: 100%;
     background-color: rgba(0, 0, 0, 1); /* Black color with full opacity */
     z-index: 998; /* Ensure it's below the animation container */
+    display: none; /* Initially hide the overlay */
 }
 
 .animation-container {
     position: relative;
     z-index: 999; /* Ensure it's above the dark screen layer */
 }
-
-
 
 .animation-container video {
     background: none;
@@ -246,7 +244,6 @@ body {
     border-radius: 20px;
     color: black;
 }
-
 
 @media (max-width: 768px) {
     .headliner {
